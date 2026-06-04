@@ -1,1 +1,19 @@
+FinServe KMS Project - Screenshot Index
 
+Screenshot1.png
+Customer-managed AWS KMS key created to protect FinServe transaction data.
+
+Screenshot2.png
+DynamoDB table successfully created to store FinServe transaction records.
+
+Screenshot3.png
+DynamoDB table configured to use the customer-managed KMS key for encryption at rest.
+
+Screenshot4.png
+Viewing encrypted DynamoDB records as an authorized administrator with permission to use the KMS key.
+
+Screenshot5.png
+Creation of a restricted IAM user used to test least-privilege access controls.
+
+Screenshot6.png
+Access denied (kms:Decrypt) error demonstrating that the restricted user cannot decrypt protected data without KMS permissions.
