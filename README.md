@@ -171,7 +171,7 @@ Below are the screenshots documenting the AWS KMS and DynamoDB encryption workfl
 ![Admin Access](Screenshots/Screenshot4.png)
 
 ### 5. Creating the Restricted IAM User
-![Restricted User](Screenshots/Screenshot5.jpeg)
+![Restricted User](Screenshots/Screenshot5.png)
 
 ### 6. Access Denied - kms:Decrypt Error
 ![KMS Access Denied](Screenshots/Screenshot6.png)
