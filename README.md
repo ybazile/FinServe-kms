@@ -167,8 +167,11 @@ Below are the screenshots documenting the AWS KMS and DynamoDB encryption workfl
 ### 3. Configuring DynamoDB Encryption
 ![DynamoDB Encryption](Screenshots/Screenshot3.png)
 
-### 3. Viewing Encrypted DynamoDB Data as Administrator
+### 4. Viewing Encrypted DynamoDB Data as Administrator
 ![Admin Access](Screenshots/Screenshot4.png)
 
-### 5. Access Denied - kms:Decrypt Error
-![KMS Access Denied](Screenshots/Screenshot5.png)
+### 5. Creating the Restricted IAM User
+![Restricted User](Screenshots/Screenshot5.jpeg)
+
+### 6. Access Denied - kms:Decrypt Error
+![KMS Access Denied](Screenshots/Screenshot6.png)
