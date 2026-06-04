@@ -161,11 +161,11 @@ Below are the screenshots documenting the AWS KMS and DynamoDB encryption workfl
 ### 1. Creating the Customer-Managed KMS Key
 ![KMS Key Creation](Screenshots/Screenshot1.png)
 
-### 2. Configuring DynamoDB Encryption
-![DynamoDB Encryption](Screenshots/Screenshot2.png)
+### 2. DynamoDB Table Successfully Created
+![Table Created](Screenshots/Screenshot2.png)
 
-### 3. DynamoDB Table Successfully Created
-![Table Created](Screenshots/Screenshot3.png)
+### 3. Configuring DynamoDB Encryption
+![DynamoDB Encryption](Screenshots/Screenshot3.png)
 
 ### 3. Viewing Encrypted DynamoDB Data as Administrator
 ![Admin Access](Screenshots/Screenshot4.png)
